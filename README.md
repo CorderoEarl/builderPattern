@@ -22,3 +22,4 @@ Implement solution using the Builder Pattern to address the issue.
 
 # UML Diagram
 
+![Builder Pattern](https://github.com/CorderoEarl/builderPattern/assets/142371953/1d87ff92-f7ee-42bb-b90a-01f690bcdf0d)
